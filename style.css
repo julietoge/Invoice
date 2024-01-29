@@ -1,31 +1,33 @@
 body {
-            margin: 0;
-            background: f2f4ff;
-        }
-        table {
-            margin-top: 5px;
-            margin-bottom: 5px;
-            margin-left: auto;
-            margin-right: auto;
-            color: black;
-            font: 14px normal arial;
-        }
-        table, td, tr {
-            border: 0.5px solid rgb(0,0,0);
-            border-collapse: collapse;
-        }
-        #invoicedate {
-            background: lightblue;
-        }
-        #third-row {
-            background: lightblue;
-        }
-        #subtotal {
-            background: lightblue;
-        }
-        #tax {
-            background: lightblue;
-        }
-        #grandtotal {
-            background: lightblue;
-        }
+  margin: 0;
+  background: #f2f4ff;
+}
+table {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  font: 14px normal arial;
+}
+table,
+td,
+tr {
+  border: 0.5px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+}
+#invoicedate {
+  background: lightblue;
+}
+#third-row {
+  background: lightblue;
+}
+#subtotal {
+  background: lightblue;
+}
+#tax {
+  background: lightblue;
+}
+#grandtotal {
+  background: lightblue;
+}
